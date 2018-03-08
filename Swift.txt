@@ -1,4 +1,5 @@
 iOS 11 Swift Programming Cookbook: Solutions and Examples for iOS Apps 2018 (5.0/1)
+Programming iOS 11: Dive Deep into Views, View Controllers, and Frameworks 8th edition 2018 (4.5/2)
 iOS 11 Programming Fundamentals with Swift: Swift, Xcode, and Cocoa Basics 2018 (3.0/10)
 Pro iPhone Development with Swift 4: Design and Manage Top Quality Apps 2018
 Mastering Swift 4: An in-depth and comprehensive guide to modern programming techniques with Swift 4th edition 2017 (5.0/3)
